@@ -1,0 +1,47 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Chris Dale portfolio site",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdale44/portfolio-revamp.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Chris Dale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdale44/portfolio-revamp/issues"
+  },
+  "homepage": "https://github.com/chrisdale44/portfolio-revamp#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.5.1",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "copy-webpack-plugin": "^3.0.1",
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "node-sass": "^3.10.1",
+    "postcss-loader": "^1.0.0",
+    "precss": "^1.4.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.16.0"
+  },
+  "dependencies": {
+    "mobx": "^2.3.2",
+    "mobx-react": "^3.3.1",
+    "mobx-react-devtools": "^4.2.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-router": "^3.0.0"
+  }
+}
