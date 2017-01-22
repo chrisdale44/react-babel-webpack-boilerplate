@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "react-babel-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "Chris Dale portfolio site",
+  "description": "react-babel-webpack-boilerplate",
   "scripts": {
     "start": "node server.js",
     "test": "eslint src/**/*.js*"
@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisdale44/portfolio-revamp.git"
+    "url": "git+https://github.com/chrisdale44/react-babel-webpack-boilerplate.git"
   },
   "keywords": [
     "portfolio"
@@ -17,9 +17,9 @@
   "author": "Chris Dale",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chrisdale44/portfolio-revamp/issues"
+    "url": "https://github.com/chrisdale44/react-babel-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/chrisdale44/portfolio-revamp#readme",
+  "homepage": "https://github.com/chrisdale44/react-babel-webpack-boilerplate#readme",
   "devDependencies": {
     "autoprefixer": "^6.5.1",
     "babel-core": "^6.10.4",
